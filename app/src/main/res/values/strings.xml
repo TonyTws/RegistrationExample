@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Registration Example</string>
+    <string name="already_user">Already User</string>
+    <string name="registration">Registration</string>
+    <string name="user_name">User Name</string>
+    <string name="email_id">Email Id</string>
+    <string name="password">Password</string>
+</resources>
